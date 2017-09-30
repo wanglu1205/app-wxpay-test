@@ -4,10 +4,7 @@ import com.wanglu.util.HttpClientUtil;
 import com.wanglu.util.WxPaySignCreateUtil;
 import com.wanglu.util.XmlParseUtil;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.SortedMap;
-import java.util.TreeMap;
+import java.util.*;
 
 /**
  * Created by wangl on 2017/9/30 0030.
